@@ -1,8 +1,4 @@
-# Name
-Muhammad Umair
 
-# Course
-Advanced software engineering (WiSe2223)
 
 
 # LibraryManagamentSystem
