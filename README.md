@@ -1,6 +1,3 @@
-# Name test
-# Course test
-
 
 # LibraryManagamentSystem
 This project is a small console based library management system application. 
