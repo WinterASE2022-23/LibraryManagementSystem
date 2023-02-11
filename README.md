@@ -5,8 +5,8 @@ At its numerous library branches, a public library allows its users to place boo
 How does a customer actually know which books are available for loan? The library contains a book catalogue where books are uploaded together with their unique instances. Only if there is already a book in the catalog with the same ISBN may a particular book instance of a book be added. Both the book's title and price must not be empty. We choose whether an instance will be currently circulating or Restricted at the time of introducing it. This permits us to simultaneously have a book with the same ISBN that is disseminated and limited.
 # Assumptions
 The process starts with exploring the domain with the help of Big Picture Event storming. After having an event storming session there were many discoveries made:
-![Event Storming Domain description](images/DDD/eventStorming.PNG) 
-![Event Storming Domain description](images/DDD/eS2.PNG) 
+![Event Storming Domain description](LibraryManagamentSystem-main/images/DDD/eventStorming.PNG) 
+![Event Storming Domain description](LibraryManagamentSystem-main/images/DDD/eS2.PNG) 
 # Definitions
 Fromt the event stroming session following definitions were discovered:
 ## Patron
@@ -32,19 +32,19 @@ a sheet that contains data of expired hold
 # Domain Mapping
 The following domain mapping has been developed after event stroming session. The main core domain is Library resource management and the subdomains include resorces, users profiles and application fee domain.
 
-![Domain Mapping](images/DDD/domain.png)
+![Domain Mapping](LibraryManagamentSystem-main/images/DDD/domain.png)
 # UML
 UML is unified modelling language that is used for visually representing the system being developed. 
 ## Class Diagram
 A description of a group of objects all with similar roles in the system, which consists of: structural featurs as attributes and behavioural features as operations in it. Here is the class diagram of the library management system. 
-![Class Diagram](images/UML/libClass.png)
+![Class Diagram](LibraryManagamentSystem-main/images/UML/libClass.png)
 ## Usecase diagram
 In the Unified Modeling Language (UML), a use case diagram can summarize the details of your system's users (also known as actors) and their interactions with the system. Here is the use case diagram of the library management system.
-![Usecase Diagram](images/UML/usecase.png)
+![Usecase Diagram](LibraryManagamentSystem-main/images/UML/usecase.png)
 ## Activity Diagram
 Activity diagram is another important behavioral diagram in UML diagram to describe dynamic aspects of the system. Activity diagram is essentially an advanced version of flow chart that modeling the flow from one activity to another activity.Here is the activity diagram of the library management system. 
 
-![Activity Diagram](images/UML/Activity.png)
+![Activity Diagram](LibraryManagamentSystem-main/images/UML/Activity.png)
 
 # METRICS
 ## SONARCUBE
