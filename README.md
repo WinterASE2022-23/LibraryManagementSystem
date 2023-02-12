@@ -84,8 +84,8 @@ URL for test files: [Unit Tests](https://github.com/WinterASE2022-23/LibraryMana
 Continuous delivery is a software development practice where code changes are automatically prepared for a release to production. Git action is used for continuous delivery of the project. Teams can dependably release their software at any moment by working in short cycles. Development teams can create, test, and distribute software more quickly and frequently with CD. They can consequently cut back on time, money, and risk when implementing each modification. Continuous delivery requires a reproducible deployment methodology. According to TechTarget, "developers frequently send off new code to the quality assurance (QA) and operations teams for testing" in continuous delivery, which can be seen as an extension of continuous integration. Continuous delivery, also known as CI/CD, is the second component of continuous integration that enables application development teams to quickly and frequently push incremental code updates to production. It is the automation to speed up the release of new code. It pushes the changes made into code to repository or container registry. The link to git actions for the project is: [Git Action](https://github.com/WinterASE2022-23/LibraryManagementSystem/tree/main/.github/workflows)
 # 9. IDE
 I have used IntelliJ for my project development. It is a very simple and easy IDE to use. I like working in it. I have created my project using maven  on IntelliJ. The shortcuts I like in IntelliJ are following:
-//
-Shift+F2	navigate between different issues in code
+\\
+  Shift+F2	navigate between different issues in code
 //
 Ctrl+Alt+L  Reformat code
 //
