@@ -13,7 +13,7 @@ The process starts with exploring the domain with the help of Big Picture Event 
 Fromt the event stroming session following definitions were discovered:
 ## Patron
 a person who lends a book from library
-## Available Book
+## Available Book 
 a book that can be placed on hold
 ## Restricted Book
 a book which can be held by researcher patron only
