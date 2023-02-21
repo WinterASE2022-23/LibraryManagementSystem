@@ -111,6 +111,6 @@ Principle 2: Immutable things. I have used java INteger, and strign immutable cl
   principle 6: A function can refer to
 variables that belong
 to the context in which
-it was created. [Library class utilizing this principle](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java)
+it was created. [Library class utilizing this principle](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L26-L28)
 
 
