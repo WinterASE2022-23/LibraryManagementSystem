@@ -115,5 +115,8 @@ Principle 2: Immutable things. I have used java INteger, and strign immutable cl
 variables that belong
 to the context in which
 it was created. [Library class utilizing this principle](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/liberaryManagment/src/main/java/Library.java?plain=1#L26-L28)
-
+There are some principles of funcitonal programming which are missing in my project so i developed a tic ac toe game which utilizes funcitonal programming pricniples well. 
+The use of final data structure is done to introduce immutability in code which can be seen [Here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L14-L16)
+The use of higher order funcitos is done in this project like map, filter, reduce form stream API, which can be found [here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/Board.java#L32-L38)
+The use of pure functions in the code is [depicted here](https://github.com/WinterASE2022-23/LibraryManagementSystem/blob/main/LibraryManagamentSystem-main/FuncitonalProgramming/FuncitonalProgramming/src/main/java/BoardMathHelpers.java#L15-L62)
 
